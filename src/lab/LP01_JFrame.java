@@ -1,4 +1,4 @@
-package graphical.user.pkginterface.using.java;
+package lab;
 
 public class LP01_JFrame extends javax.swing.JFrame {
 
